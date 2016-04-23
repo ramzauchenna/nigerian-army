@@ -1,0 +1,48 @@
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+ *= require  css/bootstrap.min
+ *= require  css/bootstrap-extend.min
+ *= require  css/site
+ *= require  vendor/animsition/animsition
+ *= require  vendor/asscrollable/asScrollable
+ *= require  vendor/switchery/switchery
+ *= require  vendor/intro-js/introjs
+ *= require  vendor/slidepanel/slidePanel
+ *= require  vendor/flag-icon-css/flag-icon
+ *= require  vendor/select2/select2
+ *= require  vendor/bootstrap-tokenfield/bootstrap-tokenfield
+ *= require  vendor/bootstrap-tagsinput/bootstrap-tagsinput
+ *= require  vendor/icheck/icheck
+ *= require  vendor/bootstrap-select/bootstrap-select
+ *= require  vendor/chartist-js/chartist
+ *= require  vendor/datatables-bootstrap/dataTables.bootstrap
+ *= require  vendor/datatables-fixedheader/dataTables.fixedHeader
+ *= require  vendor/datatables-responsive/dataTables.responsive
+ *= require  vendor/multi-select/multi-select
+ *= require  css/tables/datatable
+ *= require  vendor/jvectormap/jquery-jvectormap
+ *= require  vendor/chartist-plugin-tooltip/chartist-plugin-tooltip
+ *= require  vendor/aspieprogress/asPieProgress
+ *= require  vendor/chartist-plugin-tooltip/chartist-plugin-tooltip
+ *= require  css/dashboard/v1
+ *= require  css/forms/advanced
+ *= require  fonts/font-awesome/font-awesome
+ *= require  fonts/web-icons/web-icons.min
+ *= require  fonts/brand-icons/brand-icons.min
+ *= require  fonts/weather-icons/weather-icons
+ *= require  fonts/web-icons/web-icons.min
+ *= require  fonts/brand-icons/brand-icons.min
+ *= require_self
+ */
+
+

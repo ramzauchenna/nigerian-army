@@ -1,0 +1,1549 @@
+lgas:
+    - name: Abadam
+      state: Borno
+    - name: Abaji
+      state: FCT
+    - name: Abak
+      state: Akwa Ibom
+    - name: Abakaliki
+      state: Ebonyi
+    - name: Aba North
+      state: Abia
+    - name: Aba South
+      state: Abia
+    - name: Abeokuta North
+      state: Ogun
+    - name: Abeokuta South
+      state: Ogun
+    - name: Abi
+      state: Cross River
+    - name: Aboh Mbaise
+      state: Imo
+    - name: Abua/Odual
+      state: Rivers
+    - name: Adavi
+      state: Kogi
+    - name: Ado Ekiti
+      state: Ekiti
+    - name: Ado-Odo/Ota
+      state: Ogun
+    - name: Afijio
+      state: Oyo
+    - name: Afikpo North
+      state: Ebonyi
+    - name: Afikpo South
+      state: Ebonyi
+    - name: Agaie
+      state: Niger
+    - name: Agatu
+      state: Benue
+    - name: Agwara
+      state: Niger
+    - name: Agege
+      state: Lagos
+    - name: Aguata
+      state: Anambra
+    - name: Ahiazu Mbaise
+      state: Imo
+    - name: Ahoada East
+      state: Rivers
+    - name: Ahoada West
+      state: Rivers
+    - name: Ajaokuta
+      state: Kogi
+    - name: Ajeromi-Ifelodun
+      state: Lagos
+    - name: Ajingi
+      state: Kano
+    - name: Akamkpa
+      state: Cross River
+    - name: Akinyele
+      state: Oyo
+    - name: Akko
+      state: Gombe
+    - name: Akoko-Edo
+      state: Edo
+    - name: Akoko North-East
+      state: Ondo
+    - name: Akoko North-West
+      state: Ondo
+    - name: Akoko South-West
+      state: Ondo
+    - name: Akoko South-East
+      state: Ondo
+    - name: Akpabuyo
+      state: Cross River
+    - name: Akuku-Toru
+      state: Rivers
+    - name: Akure North
+      state: Ondo
+    - name: Akure South
+      state: Ondo
+    - name: Akwanga
+      state: Nasarawa
+    - name: Albasu
+      state: Kano
+    - name: Aleiro
+      state: Kebbi
+    - name: Alimosho
+      state: Lagos
+    - name: Alkaleri
+      state: Bauchi
+    - name: Amuwo-Odofin
+      state: Lagos
+    - name: Anambra East
+      state: Anambra
+    - name: Anambra West
+      state: Anambra
+    - name: Anaocha
+      state: Anambra
+    - name: Andoni
+      state: Rivers
+    - name: Aninri
+      state: Enugu
+    - name: Aniocha North
+      state: Delta
+    - name: Aniocha South
+      state: Delta
+    - name: Anka
+      state: Zamfara
+    - name: Ankpa
+      state: Kogi
+    - name: Apa
+      state: Benue
+    - name: Apapa
+      state: Lagos
+    - name: Ado
+      state: Benue
+    - name: Ardo Kola
+      state: Taraba
+    - name: Arewa Dandi
+      state: Kebbi
+    - name: Argungu
+      state: Kebbi
+    - name: Arochukwu
+      state: Abia
+    - name: Asa
+      state: Kwara
+    - name: Asari-Toru
+      state: Rivers
+    - name: Askira/Uba
+      state: Borno
+    - name: Atakunmosa East
+      state: Osun
+    - name: Atakunmosa West
+      state: Osun
+    - name: Atiba
+      state: Oyo
+    - name: Atisbo
+      state: Oyo
+    - name: Augie
+      state: Kebbi
+    - name: Auyo
+      state: Jigawa
+    - name: Awe
+      state: Nasarawa
+    - name: Awgu
+      state: Enugu
+    - name: Awka North
+      state: Anambra
+    - name: Awka South
+      state: Anambra
+    - name: Ayamelum
+      state: Anambra
+    - name: Aiyedaade
+      state: Osun
+    - name: Aiyedire
+      state: Osun
+    - name: Babura
+      state: Jigawa
+    - name: Badagry
+      state: Lagos
+    - name: Bagudo
+      state: Kebbi
+    - name: Bagwai
+      state: Kano
+    - name: Bakassi
+      state: Cross River
+    - name: Bokkos
+      state: Plateau
+    - name: Bakori
+      state: Katsina
+    - name: Bakura
+      state: Zamfara
+    - name: Balanga
+      state: Gombe
+    - name: Bali
+      state: Taraba
+    - name: Bama
+      state: Borno
+    - name: Bade
+      state: Yobe
+    - name: Barkin Ladi
+      state: Plateau
+    - name: Baruten
+      state: Kwara
+    - name: Bassa
+      state: Kogi
+    - name: Bassa
+      state: Plateau
+    - name: Batagarawa
+      state: Katsina
+    - name: Batsari
+      state: Katsina
+    - name: Bauchi
+      state: Bauchi
+    - name: Baure
+      state: Katsina
+    - name: Bayo
+      state: Borno
+    - name: Bebeji
+      state: Kano
+    - name: Bekwarra
+      state: Cross River
+    - name: Bende
+      state: Abia
+    - name: Biase
+      state: Cross River
+    - name: Bichi
+      state: Kano
+    - name: Bida
+      state: Niger
+    - name: Billiri
+      state: Gombe
+    - name: Bindawa
+      state: Katsina
+    - name: Binji
+      state: Sokoto
+    - name: Biriniwa
+      state: Jigawa
+    - name: Birnin Gwari
+      state: Kaduna
+    - name: Birnin Kebbi
+      state: Kebbi
+    - name: Birnin Kudu
+      state: Jigawa
+    - name: Birnin Magaji/Kiyaw
+      state: Zamfara
+    - name: Biu
+      state: Borno
+    - name: Bodinga
+      state: Sokoto
+    - name: Bogoro
+      state: Bauchi
+    - name: Boki
+      state: Cross River
+    - name: Boluwaduro
+      state: Osun
+    - name: Bomadi
+      state: Delta
+    - name: Bonny
+      state: Rivers
+    - name: Borgu
+      state: Niger
+    - name: Boripe
+      state: Osun
+    - name: Bursari
+      state: Yobe
+    - name: Bosso
+      state: Niger
+    - name: Brass
+      state: Bayelsa
+    - name: Buji
+      state: Jigawa
+    - name: Bukkuyum
+      state: Zamfara
+    - name: Buruku
+      state: Benue
+    - name: Bungudu
+      state: Zamfara
+    - name: Bunkure
+      state: Kano
+    - name: Bunza
+      state: Kebbi
+    - name: Burutu
+      state: Delta
+    - name: Bwari
+      state: FCT
+    - name: Calabar Municipal
+      state: Cross River
+    - name: Calabar South
+      state: Cross River
+    - name: Chanchaga
+      state: Niger
+    - name: Charanchi
+      state: Katsina
+    - name: Chibok
+      state: Borno
+    - name: Chikun
+      state: Kaduna
+    - name: Dala
+      state: Kano
+    - name: Damaturu
+      state: Yobe
+    - name: Damban
+      state: Bauchi
+    - name: Dambatta
+      state: Kano
+    - name: Damboa
+      state: Borno
+    - name: Dandi
+      state: Kebbi
+    - name: Dandume
+      state: Katsina
+    - name: Dange Shuni
+      state: Sokoto
+    - name: Danja
+      state: Katsina
+    - name: Dan Musa
+      state: Katsina
+    - name: Darazo
+      state: Bauchi
+    - name: Dass
+      state: Bauchi
+    - name: Daura
+      state: Katsina
+    - name: Dawakin Kudu
+      state: Kano
+    - name: Dawakin Tofa
+      state: Kano
+    - name: Degema
+      state: Rivers
+    - name: Dekina
+      state: Kogi
+    - name: Demsa
+      state: Adamawa
+    - name: Dikwa
+      state: Borno
+    - name: Doguwa
+      state: Kano
+    - name: Doma
+      state: Nasarawa
+    - name: Donga
+      state: Taraba
+    - name: Dukku
+      state: Gombe
+    - name: Dunukofia
+      state: Anambra
+    - name: Dutse
+      state: Jigawa
+    - name: Dutsi
+      state: Katsina
+    - name: Dutsin Ma
+      state: Katsina
+    - name: Eastern Obolo
+      state: Akwa Ibom
+    - name: Ebonyi
+      state: Ebonyi
+    - name: Edati
+      state: Niger
+    - name: Ede North
+      state: Osun
+    - name: Ede South
+      state: Osun
+    - name: Edu
+      state: Kwara
+    - name: Ife Central
+      state: Osun
+    - name: Ife East
+      state: Osun
+    - name: Ife North
+      state: Osun
+    - name: Ife South
+      state: Osun
+    - name: Efon
+      state: Ekiti
+    - name: Egbado North
+      state: Ogun
+    - name: Egbado South
+      state: Ogun
+    - name: Egbeda
+      state: Oyo
+    - name: Egbedore
+      state: Osun
+    - name: Egor
+      state: Edo
+    - name: Ehime Mbano
+      state: Imo
+    - name: Ejigbo
+      state: Osun
+    - name: Ekeremor
+      state: Bayelsa
+    - name: Eket
+      state: Akwa Ibom
+    - name: Ekiti
+      state: Kwara
+    - name: Ekiti East
+      state: Ekiti
+    - name: Ekiti South-West
+      state: Ekiti
+    - name: Ekiti West
+      state: Ekiti
+    - name: Ekwusigo
+      state: Anambra
+    - name: Eleme
+      state: Rivers
+    - name: Emuoha
+      state: Rivers
+    - name: Emure
+      state: Ekiti
+    - name: Enugu East
+      state: Enugu
+    - name: Enugu North
+      state: Enugu
+    - name: Enugu South
+      state: Enugu
+    - name: Epe
+      state: Lagos
+    - name: Esan Central
+      state: Edo
+    - name: Esan North-East
+      state: Edo
+    - name: Esan South-East
+      state: Edo
+    - name: Esan West
+      state: Edo
+    - name: Ese Odo
+      state: Ondo
+    - name: Esit Eket
+      state: Akwa Ibom
+    - name: Essien Udim
+      state: Akwa Ibom
+    - name: Etche
+      state: Rivers
+    - name: Ethiope East
+      state: Delta
+    - name: Ethiope West
+      state: Delta
+    - name: Etim Ekpo
+      state: Akwa Ibom
+    - name: Etinan
+      state: Akwa Ibom
+    - name: Eti Osa
+      state: Lagos
+    - name: Etsako Central
+      state: Edo
+    - name: Etsako East
+      state: Edo
+    - name: Etsako West
+      state: Edo
+    - name: Etung
+      state: Cross River
+    - name: Ewekoro
+      state: Ogun
+    - name: Ezeagu
+      state: Enugu
+    - name: Ezinihitte
+      state: Imo
+    - name: Ezza North
+      state: Ebonyi
+    - name: Ezza South
+      state: Ebonyi
+    - name: Fagge
+      state: Kano
+    - name: Fakai
+      state: Kebbi
+    - name: Faskari
+      state: Katsina
+    - name: Fika
+      state: Yobe
+    - name: Fufure
+      state: Adamawa
+    - name: Funakaye
+      state: Gombe
+    - name: Fune
+      state: Yobe
+    - name: Funtua
+      state: Katsina
+    - name: Gabasawa
+      state: Kano
+    - name: Gada
+      state: Sokoto
+    - name: Gagarawa
+      state: Jigawa
+    - name: Gamawa
+      state: Bauchi
+    - name: Ganjuwa
+      state: Bauchi
+    - name: Ganye
+      state: Adamawa
+    - name: Garki
+      state: Jigawa
+    - name: Garko
+      state: Kano
+    - name: Garun Mallam
+      state: Kano
+    - name: Gashaka
+      state: Taraba
+    - name: Gassol
+      state: Taraba
+    - name: Gaya
+      state: Kano
+    - name: Gayuk
+      state: Adamawa
+    - name: Gezawa
+      state: Kano
+    - name: Gbako
+      state: Niger
+    - name: Gboko
+      state: Benue
+    - name: Gbonyin
+      state: Ekiti
+    - name: Geidam
+      state: Yobe
+    - name: Giade
+      state: Bauchi
+    - name: Giwa
+      state: Kaduna
+    - name: Gokana
+      state: Rivers
+    - name: Gombe
+      state: Gombe
+    - name: Gombi
+      state: Adamawa
+    - name: Goronyo
+      state: Sokoto
+    - name: Grie
+      state: Adamawa
+    - name: Gubio
+      state: Borno
+    - name: Gudu
+      state: Sokoto
+    - name: Gujba
+      state: Yobe
+    - name: Gulani
+      state: Yobe
+    - name: Guma
+      state: Benue
+    - name: Gumel
+      state: Jigawa
+    - name: Gummi
+      state: Zamfara
+    - name: Gurara
+      state: Niger
+    - name: Guri
+      state: Jigawa
+    - name: Gusau
+      state: Zamfara
+    - name: Guzamala
+      state: Borno
+    - name: Gwadabawa
+      state: Sokoto
+    - name: Gwagwalada
+      state: FCT
+    - name: Gwale
+      state: Kano
+    - name: Gwandu
+      state: Kebbi
+    - name: Gwaram
+      state: Jigawa
+    - name: Gwarzo
+      state: Kano
+    - name: Gwer East
+      state: Benue
+    - name: Gwer West
+      state: Benue
+    - name: Gwiwa
+      state: Jigawa
+    - name: Gwoza
+      state: Borno
+    - name: Hadejia
+      state: Jigawa
+    - name: Hawul
+      state: Borno
+    - name: Hong
+      state: Adamawa
+    - name: Ibadan North
+      state: Oyo
+    - name: Ibadan North-East
+      state: Oyo
+    - name: Ibadan North-West
+      state: Oyo
+    - name: Ibadan South-East
+      state: Oyo
+    - name: Ibadan South-West
+      state: Oyo
+    - name: Ibaji
+      state: Kogi
+    - name: Ibarapa Central
+      state: Oyo
+    - name: Ibarapa East
+      state: Oyo
+    - name: Ibarapa North
+      state: Oyo
+    - name: Ibeju-Lekki
+      state: Lagos
+    - name: Ibeno
+      state: Akwa Ibom
+    - name: Ibesikpo Asutan
+      state: Akwa Ibom
+    - name: Ibi
+      state: Taraba
+    - name: Ibiono-Ibom
+      state: Akwa Ibom
+    - name: Idah
+      state: Kogi
+    - name: Idanre
+      state: Ondo
+    - name: Ideato North
+      state: Imo
+    - name: Ideato South
+      state: Imo
+    - name: Idemili North
+      state: Anambra
+    - name: Idemili South
+      state: Anambra
+    - name: Ido
+      state: Oyo
+    - name: Ido Osi
+      state: Ekiti
+    - name: Ifako-Ijaiye
+      state: Lagos
+    - name: Ifedayo
+      state: Osun
+    - name: Ifedore
+      state: Ondo
+    - name: Ifelodun
+      state: Kwara
+    - name: Ifelodun
+      state: Osun
+    - name: Ifo
+      state: Ogun
+    - name: Igabi
+      state: Kaduna
+    - name: Igalamela Odolu
+      state: Kogi
+    - name: Igbo Etiti
+      state: Enugu
+    - name: Igbo Eze North
+      state: Enugu
+    - name: Igbo Eze South
+      state: Enugu
+    - name: Igueben
+      state: Edo
+    - name: Ihiala
+      state: Anambra
+    - name: Ihitte/Uboma
+      state: Imo
+    - name: Ilaje
+      state: Ondo
+    - name: Ijebu East
+      state: Ogun
+    - name: Ijebu North
+      state: Ogun
+    - name: Ijebu North East
+      state: Ogun
+    - name: Ijebu Ode
+      state: Ogun
+    - name: Ijero
+      state: Ekiti
+    - name: Ijumu
+      state: Kogi
+    - name: Ika
+      state: Akwa Ibom
+    - name: Ika North East
+      state: Delta
+    - name: Ikara
+      state: Kaduna
+    - name: Ika South
+      state: Delta
+    - name: Ikeduru
+      state: Imo
+    - name: Ikeja
+      state: Lagos
+    - name: Ikenne
+      state: Ogun
+    - name: Ikere
+      state: Ekiti
+    - name: Ikole
+      state: Ekiti
+    - name: Ikom
+      state: Cross River
+    - name: Ikono
+      state: Akwa Ibom
+    - name: Ikorodu
+      state: Lagos
+    - name: Ikot Abasi
+      state: Akwa Ibom
+    - name: Ikot Ekpene
+      state: Akwa Ibom
+    - name: Ikpoba Okha
+      state: Edo
+    - name: Ikwerre
+      state: Rivers
+    - name: Ikwo
+      state: Ebonyi
+    - name: Ikwuano
+      state: Abia
+    - name: Ila
+      state: Osun
+    - name: Ilejemeje
+      state: Ekiti
+    - name: Ile Oluji/Okeigbo
+      state: Ondo
+    - name: Ilesa East
+      state: Osun
+    - name: Ilesa West
+      state: Osun
+    - name: Illela
+      state: Sokoto
+    - name: Ilorin East
+      state: Kwara
+    - name: Ilorin South
+      state: Kwara
+    - name: Ilorin West
+      state: Kwara
+    - name: Imeko Afon
+      state: Ogun
+    - name: Ingawa
+      state: Katsina
+    - name: Ini
+      state: Akwa Ibom
+    - name: Ipokia
+      state: Ogun
+    - name: Irele
+      state: Ondo
+    - name: Irepo
+      state: Oyo
+    - name: Irepodun
+      state: Kwara
+    - name: Irepodun
+      state: Osun
+    - name: Irepodun/Ifelodun
+      state: Ekiti
+    - name: Irewole
+      state: Osun
+    - name: Isa
+      state: Sokoto
+    - name: Ise/Orun
+      state: Ekiti
+    - name: Iseyin
+      state: Oyo
+    - name: Ishielu
+      state: Ebonyi
+    - name: Isiala Mbano
+      state: Imo
+    - name: Isiala Ngwa North
+      state: Abia
+    - name: Isiala Ngwa South
+      state: Abia
+    - name: Isin
+      state: Kwara
+    - name: Isi Uzo
+      state: Enugu
+    - name: Isokan
+      state: Osun
+    - name: Isoko North
+      state: Delta
+    - name: Isoko South
+      state: Delta
+    - name: Isu
+      state: Imo
+    - name: Isuikwuato
+      state: Abia
+    - name: Itas/Gadau
+      state: Bauchi
+    - name: Itesiwaju
+      state: Oyo
+    - name: Itu
+      state: Akwa Ibom
+    - name: Ivo
+      state: Ebonyi
+    - name: Iwajowa
+      state: Oyo
+    - name: Iwo
+      state: Osun
+    - name: Izzi
+      state: Ebonyi
+    - name: Jaba
+      state: Kaduna
+    - name: Jada
+      state: Adamawa
+    - name: Jahun
+      state: Jigawa
+    - name: Jakusko
+      state: Yobe
+    - name: Jalingo
+      state: Taraba
+    - name: 'Jama''are'
+      state: Bauchi
+    - name: Jega
+      state: Kebbi
+    - name: 'Jema''a'
+      state: Kaduna
+    - name: Jere
+      state: Borno
+    - name: Jibia
+      state: Katsina
+    - name: Jos East
+      state: Plateau
+    - name: Jos North
+      state: Plateau
+    - name: Jos South
+      state: Plateau
+    - name: Kabba/Bunu
+      state: Kogi
+    - name: Kabo
+      state: Kano
+    - name: Kachia
+      state: Kaduna
+    - name: Kaduna North
+      state: Kaduna
+    - name: Kaduna South
+      state: Kaduna
+    - name: Kafin Hausa
+      state: Jigawa
+    - name: Kafur
+      state: Katsina
+    - name: Kaga
+      state: Borno
+    - name: Kagarko
+      state: Kaduna
+    - name: Kaiama
+      state: Kwara
+    - name: Kaita
+      state: Katsina
+    - name: Kajola
+      state: Oyo
+    - name: Kajuru
+      state: Kaduna
+    - name: Kala/Balge
+      state: Borno
+    - name: Kalgo
+      state: Kebbi
+    - name: Kaltungo
+      state: Gombe
+    - name: Kanam
+      state: Plateau
+    - name: Kankara
+      state: Katsina
+    - name: Kanke
+      state: Plateau
+    - name: Kankia
+      state: Katsina
+    - name: Kano Municipal
+      state: Kano
+    - name: Karasuwa
+      state: Yobe
+    - name: Karaye
+      state: Kano
+    - name: Karim Lamido
+      state: Taraba
+    - name: Karu
+      state: Nasarawa
+    - name: Katagum
+      state: Bauchi
+    - name: Katcha
+      state: Niger
+    - name: Katsina
+      state: Katsina
+    - name: Katsina-Ala
+      state: Benue
+    - name: Kaura
+      state: Kaduna
+    - name: Kaura Namoda
+      state: Zamfara
+    - name: Kauru
+      state: Kaduna
+    - name: Kazaure
+      state: Jigawa
+    - name: Keana
+      state: Nasarawa
+    - name: Kebbe
+      state: Sokoto
+    - name: Keffi
+      state: Nasarawa
+    - name: Khana
+      state: Rivers
+    - name: Kibiya
+      state: Kano
+    - name: Kirfi
+      state: Bauchi
+    - name: Kiri Kasama
+      state: Jigawa
+    - name: Kiru
+      state: Kano
+    - name: Kiyawa
+      state: Jigawa
+    - name: Kogi
+      state: Kogi
+    - name: Koko/Besse
+      state: Kebbi
+    - name: Kokona
+      state: Nasarawa
+    - name: Kolokuma/Opokuma
+      state: Bayelsa
+    - name: Konduga
+      state: Borno
+    - name: Konshisha
+      state: Benue
+    - name: Kontagora
+      state: Niger
+    - name: Kosofe
+      state: Lagos
+    - name: Kaugama
+      state: Jigawa
+    - name: Kubau
+      state: Kaduna
+    - name: Kudan
+      state: Kaduna
+    - name: Kuje
+      state: FCT
+    - name: Kukawa
+      state: Borno
+    - name: Kumbotso
+      state: Kano
+    - name: Kumi
+      state: Taraba
+    - name: Kunchi
+      state: Kano
+    - name: Kura
+      state: Kano
+    - name: Kurfi
+      state: Katsina
+    - name: Kusada
+      state: Katsina
+    - name: Kwali
+      state: FCT
+    - name: Kwande
+      state: Benue
+    - name: Kwami
+      state: Gombe
+    - name: Kware
+      state: Sokoto
+    - name: Kwaya Kusar
+      state: Borno
+    - name: Lafia
+      state: Nasarawa
+    - name: Lagelu
+      state: Oyo
+    - name: Lagos Island
+      state: Lagos
+    - name: Lagos Mainland
+      state: Lagos
+    - name: Langtang South
+      state: Plateau
+    - name: Langtang North
+      state: Plateau
+    - name: Lapai
+      state: Niger
+    - name: Lamurde
+      state: Adamawa
+    - name: Lau
+      state: Taraba
+    - name: Lavun
+      state: Niger
+    - name: Lere
+      state: Kaduna
+    - name: Logo
+      state: Benue
+    - name: Lokoja
+      state: Kogi
+    - name: Machina
+      state: Yobe
+    - name: Madagali
+      state: Adamawa
+    - name: Madobi
+      state: Kano
+    - name: Mafa
+      state: Borno
+    - name: Magama
+      state: Niger
+    - name: Magumeri
+      state: Borno
+    - name: 'Mai''Adua'
+      state: Katsina
+    - name: Maiduguri
+      state: Borno
+    - name: Maigatari
+      state: Jigawa
+    - name: Maiha
+      state: Adamawa
+    - name: Maiyama
+      state: Kebbi
+    - name: Makarfi
+      state: Kaduna
+    - name: Makoda
+      state: Kano
+    - name: Malam Madori
+      state: Jigawa
+    - name: Malumfashi
+      state: Katsina
+    - name: Mangu
+      state: Plateau
+    - name: Mani
+      state: Katsina
+    - name: Maradun
+      state: Zamfara
+    - name: Mariga
+      state: Niger
+    - name: Makurdi
+      state: Benue
+    - name: Marte
+      state: Borno
+    - name: Maru
+      state: Zamfara
+    - name: Mashegu
+      state: Niger
+    - name: Mashi
+      state: Katsina
+    - name: Matazu
+      state: Katsina
+    - name: Mayo Belwa
+      state: Adamawa
+    - name: Mbaitoli
+      state: Imo
+    - name: Mbo
+      state: Akwa Ibom
+    - name: Michika
+      state: Adamawa
+    - name: Miga
+      state: Jigawa
+    - name: Mikang
+      state: Plateau
+    - name: Minjibir
+      state: Kano
+    - name: Misau
+      state: Bauchi
+    - name: Moba
+      state: Ekiti
+    - name: Mobbar
+      state: Borno
+    - name: Mubi North
+      state: Adamawa
+    - name: Mubi South
+      state: Adamawa
+    - name: Mokwa
+      state: Niger
+    - name: Monguno
+      state: Borno
+    - name: Mopa Muro
+      state: Kogi
+    - name: Moro
+      state: Kwara
+    - name: Moya
+      state: Niger
+    - name: Mkpat-Enin
+      state: Akwa Ibom
+    - name: Municipal Area Council
+      state: FCT
+    - name: Musawa
+      state: Katsina
+    - name: Mushin
+      state: Lagos
+    - name: Nafada
+      state: Gombe
+    - name: Nangere
+      state: Yobe
+    - name: Nasarawa
+      state: Kano
+    - name: Nasarawa
+      state: Nasarawa
+    - name: Nasarawa Egon
+      state: Nasarawa
+    - name: Ndokwa East
+      state: Delta
+    - name: Ndokwa West
+      state: Delta
+    - name: Nembe
+      state: Bayelsa
+    - name: Ngala
+      state: Borno
+    - name: Nganzai
+      state: Borno
+    - name: Ngaski
+      state: Kebbi
+    - name: Ngor Okpala
+      state: Imo
+    - name: Nguru
+      state: Yobe
+    - name: Ningi
+      state: Bauchi
+    - name: Njaba
+      state: Imo
+    - name: Njikoka
+      state: Anambra
+    - name: Nkanu East
+      state: Enugu
+    - name: Nkanu West
+      state: Enugu
+    - name: Nkwerre
+      state: Imo
+    - name: Nnewi North
+      state: Anambra
+    - name: Nnewi South
+      state: Anambra
+    - name: Nsit-Atai
+      state: Akwa Ibom
+    - name: Nsit-Ibom
+      state: Akwa Ibom
+    - name: Nsit-Ubium
+      state: Akwa Ibom
+    - name: Nsukka
+      state: Enugu
+    - name: Numan
+      state: Adamawa
+    - name: Nwangele
+      state: Imo
+    - name: Obafemi Owode
+      state: Ogun
+    - name: Obanliku
+      state: Cross River
+    - name: Obi
+      state: Benue
+    - name: Obi
+      state: Nasarawa
+    - name: Obi Ngwa
+      state: Abia
+    - name: Obio/Akpor
+      state: Rivers
+    - name: Obokun
+      state: Osun
+    - name: Obot Akara
+      state: Akwa Ibom
+    - name: Obowo
+      state: Imo
+    - name: Obubra
+      state: Cross River
+    - name: Obudu
+      state: Cross River
+    - name: Odeda
+      state: Ogun
+    - name: Odigbo
+      state: Ondo
+    - name: Odogbolu
+      state: Ogun
+    - name: Odo Otin
+      state: Osun
+    - name: Odukpani
+      state: Cross River
+    - name: Offa
+      state: Kwara
+    - name: Ofu
+      state: Kogi
+    - name: Ogba/Egbema/Ndoni
+      state: Rivers
+    - name: Ogbadibo
+      state: Benue
+    - name: Ogbaru
+      state: Anambra
+    - name: Ogbia
+      state: Bayelsa
+    - name: Ogbomosho North
+      state: Oyo
+    - name: Ogbomosho South
+      state: Oyo
+    - name: Ogu/Bolo
+      state: Rivers
+    - name: Ogoja
+      state: Cross River
+    - name: Ogo Oluwa
+      state: Oyo
+    - name: Ogori/Magongo
+      state: Kogi
+    - name: Ogun Waterside
+      state: Ogun
+    - name: Oguta
+      state: Imo
+    - name: Ohafia
+      state: Abia
+    - name: Ohaji/Egbema
+      state: Imo
+    - name: Ohaozara
+      state: Ebonyi
+    - name: Ohaukwu
+      state: Ebonyi
+    - name: Ohimini
+      state: Benue
+    - name: Orhionmwon
+      state: Edo
+    - name: Oji River
+      state: Enugu
+    - name: Ojo
+      state: Lagos
+    - name: Oju
+      state: Benue
+    - name: Okehi
+      state: Kogi
+    - name: Okene
+      state: Kogi
+    - name: Oke Ero
+      state: Kwara
+    - name: Okigwe
+      state: Imo
+    - name: Okitipupa
+      state: Ondo
+    - name: Okobo
+      state: Akwa Ibom
+    - name: Okpe
+      state: Delta
+    - name: Okrika
+      state: Rivers
+    - name: Olamaboro
+      state: Kogi
+    - name: Ola Oluwa
+      state: Osun
+    - name: Olorunda
+      state: Osun
+    - name: Olorunsogo
+      state: Oyo
+    - name: Oluyole
+      state: Oyo
+    - name: Omala
+      state: Kogi
+    - name: Omuma
+      state: Rivers
+    - name: Ona Ara
+      state: Oyo
+    - name: Ondo East
+      state: Ondo
+    - name: Ondo West
+      state: Ondo
+    - name: Onicha
+      state: Ebonyi
+    - name: Onitsha North
+      state: Anambra
+    - name: Onitsha South
+      state: Anambra
+    - name: Onna
+      state: Akwa Ibom
+    - name: Okpokwu
+      state: Benue
+    - name: Opobo/Nkoro
+      state: Rivers
+    - name: Oredo
+      state: Edo
+    - name: Orelope
+      state: Oyo
+    - name: Oriade
+      state: Osun
+    - name: Ori Ire
+      state: Oyo
+    - name: Orlu
+      state: Imo
+    - name: Orolu
+      state: Osun
+    - name: Oron
+      state: Akwa Ibom
+    - name: Orsu
+      state: Imo
+    - name: Oru East
+      state: Imo
+    - name: Oruk Anam
+      state: Akwa Ibom
+    - name: Orumba North
+      state: Anambra
+    - name: Orumba South
+      state: Anambra
+    - name: Oru West
+      state: Imo
+    - name: Ose
+      state: Ondo
+    - name: Oshimili North
+      state: Delta
+    - name: Oshimili South
+      state: Delta
+    - name: Oshodi-Isolo
+      state: Lagos
+    - name: Osisioma
+      state: Abia
+    - name: Osogbo
+      state: Osun
+    - name: Oturkpo
+      state: Benue
+    - name: Ovia North-East
+      state: Edo
+    - name: Ovia South-West
+      state: Edo
+    - name: Owan East
+      state: Edo
+    - name: Owan West
+      state: Edo
+    - name: Owerri Municipal
+      state: Imo
+    - name: Owerri North
+      state: Imo
+    - name: Owerri West
+      state: Imo
+    - name: Owo
+      state: Ondo
+    - name: Oye
+      state: Ekiti
+    - name: Oyi
+      state: Anambra
+    - name: Oyigbo
+      state: Rivers
+    - name: Oyo
+      state: Oyo
+    - name: Oyo East
+      state: Oyo
+    - name: Oyun
+      state: Kwara
+    - name: Paikoro
+      state: Niger
+    - name: Pankshin
+      state: Plateau
+    - name: Patani
+      state: Delta
+    - name: Pategi
+      state: Kwara
+    - name: Port Harcourt
+      state: Rivers
+    - name: Potiskum
+      state: Yobe
+    - name: 'Qua''an Pan'
+      state: Plateau
+    - name: Rabah
+      state: Sokoto
+    - name: Rafi
+      state: Niger
+    - name: Rano
+      state: Kano
+    - name: Remo North
+      state: Ogun
+    - name: Rijau
+      state: Niger
+    - name: Rimi
+      state: Katsina
+    - name: Rimin Gado
+      state: Kano
+    - name: Ringim
+      state: Jigawa
+    - name: Riyom
+      state: Plateau
+    - name: Rogo
+      state: Kano
+    - name: Roni
+      state: Jigawa
+    - name: Sabon Birni
+      state: Sokoto
+    - name: Sabon Gari
+      state: Kaduna
+    - name: Sabuwa
+      state: Katsina
+    - name: Safana
+      state: Katsina
+    - name: Sagbama
+      state: Bayelsa
+    - name: Sakaba
+      state: Kebbi
+    - name: Saki East
+      state: Oyo
+    - name: Saki West
+      state: Oyo
+    - name: Sandamu
+      state: Katsina
+    - name: Sanga
+      state: Kaduna
+    - name: Sapele
+      state: Delta
+    - name: Sardauna
+      state: Taraba
+    - name: Shagamu
+      state: Ogun
+    - name: Shagari
+      state: Sokoto
+    - name: Shanga
+      state: Kebbi
+    - name: Shani
+      state: Borno
+    - name: Shanono
+      state: Kano
+    - name: Shelleng
+      state: Adamawa
+    - name: Shendam
+      state: Plateau
+    - name: Shinkafi
+      state: Zamfara
+    - name: Shira
+      state: Bauchi
+    - name: Shiroro
+      state: Niger
+    - name: Shongom
+      state: Gombe
+    - name: Shomolu
+      state: Lagos
+    - name: Silame
+      state: Sokoto
+    - name: Soba
+      state: Kaduna
+    - name: Sokoto North
+      state: Sokoto
+    - name: Sokoto South
+      state: Sokoto
+    - name: Song
+      state: Adamawa
+    - name: Southern Ijaw
+      state: Bayelsa
+    - name: Suleja
+      state: Niger
+    - name: Sule Tankarkar
+      state: Jigawa
+    - name: Sumaila
+      state: Kano
+    - name: Suru
+      state: Kebbi
+    - name: Surulere
+      state: Oyo
+    - name: Surulere
+      state: Lagos
+    - name: Tafa
+      state: Niger
+    - name: Tafawa Balewa
+      state: Bauchi
+    - name: Tai
+      state: Rivers
+    - name: Takai
+      state: Kano
+    - name: Takum
+      state: Taraba
+    - name: Talata Mafara
+      state: Zamfara
+    - name: Tambuwal
+      state: Sokoto
+    - name: Tangaza
+      state: Sokoto
+    - name: Tarauni
+      state: Kano
+    - name: Tarka
+      state: Benue
+    - name: Tarmuwa
+      state: Yobe
+    - name: Taura
+      state: Jigawa
+    - name: Toungo
+      state: Adamawa
+    - name: Tofa
+      state: Kano
+    - name: Toro
+      state: Bauchi
+    - name: Toto
+      state: Nasarawa
+    - name: Chafe
+      state: Zamfara
+    - name: Tsanyawa
+      state: Kano
+    - name: Tudun Wada
+      state: Kano
+    - name: Tureta
+      state: Sokoto
+    - name: Udenu
+      state: Enugu
+    - name: Udi
+      state: Enugu
+    - name: Udu
+      state: Delta
+    - name: Udung-Uko
+      state: Akwa Ibom
+    - name: Ughelli North
+      state: Delta
+    - name: Ughelli South
+      state: Delta
+    - name: Ugwunagbo
+      state: Abia
+    - name: Uhunmwonde
+      state: Edo
+    - name: Ukanafun
+      state: Akwa Ibom
+    - name: Ukum
+      state: Benue
+    - name: Ukwa East
+      state: Abia
+    - name: Ukwa West
+      state: Abia
+    - name: Ukwuani
+      state: Delta
+    - name: Umuahia North
+      state: Abia
+    - name: Umuahia South
+      state: Abia
+    - name: Umu Nneochi
+      state: Abia
+    - name: Ungogo
+      state: Kano
+    - name: Unuimo
+      state: Imo
+    - name: Uruan
+      state: Akwa Ibom
+    - name: Urue-Offong/Oruko
+      state: Akwa Ibom
+    - name: Ushongo
+      state: Benue
+    - name: Ussa
+      state: Taraba
+    - name: Uvwie
+      state: Delta
+    - name: Uyo
+      state: Akwa Ibom
+    - name: Uzo Uwani
+      state: Enugu
+    - name: Vandeikya
+      state: Benue
+    - name: Wamako
+      state: Sokoto
+    - name: Wamba
+      state: Nasarawa
+    - name: Warawa
+      state: Kano
+    - name: Warji
+      state: Bauchi
+    - name: Warri North
+      state: Delta
+    - name: Warri South
+      state: Delta
+    - name: Warri South West
+      state: Delta
+    - name: Wasagu/Danko
+      state: Kebbi
+    - name: Wase
+      state: Plateau
+    - name: Wudil
+      state: Kano
+    - name: Wukari
+      state: Taraba
+    - name: Wurno
+      state: Sokoto
+    - name: Wushishi
+      state: Niger
+    - name: Yabo
+      state: Sokoto
+    - name: Yagba East
+      state: Kogi
+    - name: Yagba West
+      state: Kogi
+    - name: Yakuur
+      state: Cross River
+    - name: Yala
+      state: Cross River
+    - name: Yamaltu/Deba
+      state: Gombe
+    - name: Yankwashi
+      state: Jigawa
+    - name: Yauri
+      state: Kebbi
+    - name: Yenagoa
+      state: Bayelsa
+    - name: Yola North
+      state: Adamawa
+    - name: Yola South
+      state: Adamawa
+    - name: Yorro
+      state: Taraba
+    - name: Yunusari
+      state: Yobe
+    - name: Yusufari
+      state: Yobe
+    - name: Zaki
+      state: Bauchi
+    - name: Zango
+      state: Katsina
+    - name: Zangon Kataf
+      state: Kaduna
+    - name: Zaria
+      state: Kaduna
+    - name: Zing
+      state: Taraba
+    - name: Zurmi
+      state: Zamfara
+    - name: Zuru
+      state: Kebbi

@@ -1,0 +1,969 @@
+army_corps:
+  - name: Nigerian Army Engineers
+  - name: Nigerian Army Signals
+  - name: Nigerian Corps of Supply and Transport
+  - name: Nigerian Army Medical Corps
+  - name: Nigerian Army Electrical and Mechanical Engineering
+  - name: Directorte of Army Physical Training
+  - name: Nigerian Army Intelligence Corps
+  - name: Nigerian Army Education Corps
+  - name: Nigerian Army Ordnance Corps
+  - name: Nigerian Army Band Corps
+  - name: Directorate of Army Public Relations
+  - name: Army Aviation
+  - name: Chaplaincy (Islamic Affairs)
+  - name: Chaplaincy (Roman Catholic)
+  - name: Chaplaincy (Protestant)
+  - name: Finance Corps
+  - name: Military Police
+
+qualifications:
+  - name: none
+    level: primary
+  - name: First School Leaving Certificate (FSLC)
+    level: primary
+  - name: none
+    level: secondary
+  - name: Senior School Certificate of Education (SSCE)
+    level: secondary
+  - name: National Examinations Council (NECO)
+    level: secondary
+  - name: General Certificate of Education (GCE)
+    level: secondary
+  - name: National Business and Technical Examinations Board (NABTEB)
+    level: secondary
+  - name: City and Guild (C&G)
+    level: secondary
+  - name: Ordinary National Diploma (OND)
+    level: tertiary
+  - name: National Certificate of Education (NCE)
+    level: tertiary
+  - name: Registered Nurse (RN)
+    level: tertiary
+  - name: Diploma or Certificate (Others)
+    level: tertiary
+
+
+specializations:
+  - name: Masons/Bricklayers
+    army_corp_id: 2
+  - name: Carpenters
+    army_corp_id: 2
+  - name: Plumbers
+    army_corp_id: 2
+  - name: Electricians
+    army_corp_id: 2
+  - name: Plant Operators
+    army_corp_id: 2
+  - name: Refrigeration and Air Condition Technicians
+    army_corp_id: 2
+  - name: Tillers
+    army_corp_id: 2
+  - name: Welders/Metal Works
+    army_corp_id: 2
+  - name: Painters
+    army_corp_id: 2
+  - name: Iron Benders
+    army_corp_id: 2
+  - name: Aluminium Work
+    army_corp_id: 2
+  - name: Electronic installations and maintenance
+    army_corp_id: 3
+  - name: Radio TV and electronic works
+    army_corp_id: 3
+  - name: Computer Operation and maintenance
+    army_corp_id: 3
+  - name: Workshop practices
+    army_corp_id: 3
+  - name: ICT competence in various fields
+    army_corp_id: 3
+  - name: Data communication and network technician
+    army_corp_id: 3
+  - name: Competence in VSAT installations, networking and infrastructural design
+    army_corp_id: 3
+  - name: Knowledge in Urban Communication System (UCS) deployment and networking
+    army_corp_id: 3
+  - name: Surveillance technology
+    army_corp_id: 3
+  - name: Fibre Optics Technology
+    army_corp_id: 3
+  - name: Electrical technician
+    army_corp_id: 3
+  - name: Computer technician
+    army_corp_id: 3
+  - name: Proficiencies in French Language
+    army_corp_id: 3
+  - name: Skills in CCTV installations and networking
+    army_corp_id: 3
+  - name: Caterers
+    army_corp_id: 4
+  - name: Drivers
+    army_corp_id: 4
+  - name: Boat Operators
+    army_corp_id: 4
+  - name: Boat Engineer4
+    army_corp_id: 4
+  - name: Nursing
+    army_corp_id: 5
+  - name: Drivers
+    army_corp_id: 5
+  - name: X-Ray technicians
+    army_corp_id: 5
+  - name: Dental technician
+    army_corp_id: 5
+  - name: Pharmacy technician
+    army_corp_id: 5
+  - name: Environmental technician
+    army_corp_id: 5
+  - name: Biomed technician
+    army_corp_id: 5
+  - name: Medical supply
+    army_corp_id: 5
+  - name: Pysiotherapy
+    army_corp_id: 5
+  - name: Fabrication/panel beater 
+    army_corp_id: 6
+  - name: Vehicle mechanic 
+    army_corp_id: 6
+  - name: Radio/Electronic technician 
+    army_corp_id: 6
+  - name: Instrument Technician
+    army_corp_id: 6
+  - name: Mechanical/Electronic Engineering 
+    army_corp_id: 6
+  - name: Refrigeration & Air-Conditioner technician 
+    army_corp_id: 6
+  - name: Upholsterers
+    army_corp_id: 6
+  - name: Spray painting
+    army_corp_id: 6
+  - name: Vulcanizing
+    army_corp_id: 6
+  - name: Electro-medical technician
+    army_corp_id: 6
+  - name: Boat technician
+    army_corp_id: 6
+  - name: Carpentry/Woodwork
+    army_corp_id: 6
+  - name: Sign Writers
+    army_corp_id: 6
+  - name: Blacksmiths
+    army_corp_id: 6
+  - name: Generator/Plant technicians
+    army_corp_id: 6
+  - name: Automotive Electricians
+    army_corp_id: 6
+  - name: Welders
+    army_corp_id: 6
+  - name: Automtive Electricians 
+    army_corp_id: 6
+  - name: Sportsmen/women 
+    army_corp_id: 7
+  - name: Sports instructors 
+    army_corp_id: 7
+  - name: Computer Operators/technicians 
+    army_corp_id: 8
+  - name: Language Experts 
+    army_corp_id: 8
+  - name: Interpreters 
+    army_corp_id: 8
+  - name: Drivers 
+    army_corp_id: 8
+  - name: Electricians 
+    army_corp_id: 8
+  - name: Plumbers 
+    army_corp_id: 8
+  - name: Language teachers 
+    army_corp_id: 9
+  - name: Educationists 
+    army_corp_id: 9
+  - name: Library scientists 
+    army_corp_id: 9
+  - name: Tailors 
+    army_corp_id: 10
+  - name: Storemen/Women 
+    army_corp_id: 10
+  - name: Printers 
+    army_corp_id: 10
+  - name: Book-keepers 
+    army_corp_id: 10
+  - name:  Singers 
+    army_corp_id: 11
+  - name:  Song Writers 
+    army_corp_id: 11
+  - name:  Instrumentalists 
+    army_corp_id: 11
+  - name: Journalists 
+    army_corp_id: 12
+  - name: Photographer 
+    army_corp_id: 12
+  - name: Video Cameramen/women 
+    army_corp_id: 12
+  - name: Video Technician 
+    army_corp_id: 12
+  - name: Graphic Designers 
+    army_corp_id: 12
+  - name: Public Address Operator/Audiography 
+    army_corp_id: 12
+  - name: Mechanical Technicians 
+    army_corp_id: 13
+  - name: Electrical Technicians 
+    army_corp_id: 13
+  - name: Chaplaincy (Islamic)
+    army_corp_id: 14
+  - name: Chaplaincy (Roman Catholic)
+    army_corp_id: 15
+  - name: Chaplaincy (Protestant)
+    army_corp_id: 16
+  - name: Finance Corps
+    army_corp_id: 17
+  - name: Military Police
+    army_corp_id: 18
+
+subjects:
+  - name: Agricultural Science
+  - name: Animal Husbandry
+  - name: Applied Electricity
+  - name: Auto Body Repairs and Spray Painting
+  - name: Auto Electrical Work
+  - name: Auto Mechanical Work
+  - name: Auto Parts Merchandising
+  - name: Basketry
+  - name: Biology
+  - name: Blocklaying, Bricklaying and Concreting
+  - name: Book keeping
+  - name: Building Construction
+  - name: Business Management
+  - name: Capentry and Joinery
+  - name: Catering Craft Practice
+  - name: Ceramics
+  - name: Chemistry
+  - name: Christian Religious Studies
+  - name: Civic Education
+  - name: Clerical Office Duties
+  - name: Clothing and Textile
+  - name: Commerce
+  - name: Computer Studies
+  - name: Cosmetology
+  - name: Crop Husbandry and Horticulture
+  - name: Data Processing
+  - name: Dyeing and Bleaching
+  - name: Economics
+  - name: Edo
+  - name: Efik
+  - name: Electrical Installation and Maintenance Work
+  - name: English Language
+  - name: Financial Accounting
+  - name: Fisheries
+  - name: Foods and Nutrition
+  - name: Forestry
+  - name: French
+  - name: Furniture Making
+  - name: Further Mathematics
+  - name: Garment Making
+  - name: General Agriculture
+  - name: General Knowledge in Art
+  - name: Mathematics
+  - name: Geography
+  - name: Ghanian Language
+  - name: Government
+  - name: Graphic Design
+  - name: GSM Phones Maintenance and Repairs
+  - name: Hausa
+  - name: Health Education
+  - name: History
+  - name: Home Management
+  - name: Ibibio
+  - name: Igbo
+  - name: Information and Communication Technology
+  - name: Insurance
+  - name: Integrated Science
+  - name: Islamic Religious Studies
+  - name: Jewellery
+  - name: Leather Goods
+  - name: Leatherwork
+  - name: Literature in English
+  - name: Machine Woodworking
+  - name: Marketing
+  - name: Mining
+  - name: Music
+  - name: Office Practice
+  - name: Painting and Decorating
+  - name: Photography
+  - name: Physical Education
+  - name: Physics
+  - name: Picture Making
+  - name: Plumbing and Pipe Fitting
+  - name: Principles of Cost Accounting
+  - name: Printing Craft Practice
+  - name: Radio, Television and Electronics Works
+  - name: Refrigeration and Air Conditioning
+  - name: Salesmanship
+  - name: Sculpture
+  - name: Shorthand
+  - name: Social Studies
+  - name: Store Keeping
+  - name: Store Management
+  - name: Technical Drawing
+  - name: Textiles
+  - name: Tourism
+  - name: Typewriting
+  - name: Upholstery
+  - name: Visual Art
+  - name: Welding and Fabrication Engineering Craft Practice
+  - name: West African Traditional Religion
+  - name: Woodwork
+  - name: Yoruba
+
+grades:
+  - name: A1
+  - name: B2
+  - name: B3  
+  - name: C4
+  - name: C5
+  - name: C6 
+  - name: D7
+  - name: E8
+  - name: F9 
+
+centres:
+  - code: AB1
+    title: Ibeku High School
+    description:
+    address:
+    city: Umuahia
+    state: Abia
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+
+  - code: AD1
+    title: Command Secondary School
+    description:
+    address: Gibson Jallo Cantonment, 23 Bde
+    city: Yola
+    state: Adamawa
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+
+  - code: AK1
+    title: Christ The King College
+    description:
+    address: 
+    city: Uyo
+    state: Akwa Ibom
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+
+  - code: AN1
+    title: Igwebuike Grammar School
+    description:
+    address: Igbwebike Road
+    city: Awka
+    state: Anambra
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+
+    
+  - code: BA1
+    title: Government Day Secondary School
+    description:
+    address: Shadawanka Barracks
+    city: Bauchi
+    state: Bauchi
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: BY1
+    title: Bishop Dimi Grammar School
+    description:
+    address: 
+    city: Yenegoa
+    state: Bayelsa
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: BE1
+    title: Command Day Secondary School
+    description:
+    address: Nigerian Army School of Military Engineering
+    city: Makurdi
+    state: Benue
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: BE2
+    title: 72 SF BN
+    description:
+    address: Nigerian Army School of Military Engineering
+    city: Makurdi
+    state: Benue
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: BO1
+    title: Command Day Secondary School
+    description:
+    address: Maimalari Cantonment, 21 Bde
+    city: Maiduguri
+    state: Borno
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: CR1
+    title: Command Children School
+    description:
+    address: 13 Brigade
+    city: Calabar
+    state: Cross River
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: CR2
+    title: Godwin Alli Cantonment
+    description:
+    address: 13 Brigade
+    city: Ogoja
+    state: Cross River
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: DE1
+    title: West End Mixed Secondary School
+    description:
+    address: 4 Brigade
+    city: Asaba
+    state: Delta
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: EB1
+    title: Command Children School
+    description:
+    address: 
+    city: Abakaliki
+    state: Ebonyi
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: ED1
+    title: Army Children School
+    description:
+    address: Isior Barracks, NASST
+    city: Benin
+    state: Edo
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: ED2
+    title: NASEME Nichoho Barracks
+    description:
+    address: NASME
+    city: Auchi
+    state: Edo
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: EK1
+    title: Christ School
+    description:
+    address: 
+    city: Ado Ekiti
+    state: Ekiti
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: EN1
+    title: Command Day Secondary School
+    description:
+    address: Abakpa Barracks
+    city: Enugu
+    state: Enugu
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: FC1
+    title: Command Day Secondary School
+    description:
+    address: Lungi Barracks
+    city: FCT
+    state: Abuja
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: FC2
+    title: Army Day Secondary School
+    description:
+    address: Mogadishu Cantonment
+    city: FCT
+    state: Abuja
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: GO1
+    title: Government Secondary School
+    description:
+    address: 301 (GS) Artillery Regiment
+    city: Kwami
+    state: Gombe
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: IM1
+    title: Command Children School
+    description:
+    address: Obinze Barracks
+    city: Owerri
+    state: Imo
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: JI1
+    title: Jigawa State Polytechinic
+    description:
+    address: 
+    city: Dutse
+    state: Jigawa
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KD1
+    title: Command Children School
+    description:
+    address: Ribadu Cantonment
+    city: Kaduna
+    state: Kaduna
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KD2
+    title: Command Children School
+    description:
+    address: Dantunku, Waff Road
+    city: Kaduna
+    state: Kaduna
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KD3
+    title: Nigerian Army School of Artillery
+    description:
+    address: 
+    city: Kachia
+    state: Kaduna
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KN1
+    title: Command Children School
+    description:
+    address: Bukavu Barracks, 3 Brigade
+    city: Kano
+    state: Kano
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KT1
+    title: Natsinta Day Secondary School
+    description:
+    address: 35 Battallion
+    city: Katsina
+    state: Katsina
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KE1
+    title: Nagari College
+    description:
+    address: 
+    city: Birnin Kebbi
+    state: Kebbi
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KO1
+    title: Command Children School
+    description:
+    address: Maigumeri Barracks, HQ CAR
+    city: Lokoja
+    state: Kogi
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KO2
+    title: Kogi State University
+    description:
+    address: 
+    city: Ayangba
+    state: Kogi
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: KW1
+    title: Command Children School
+    description:
+    address: Sobi Barracks
+    city: Ilorin
+    state: Kwara
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: LA1
+    title: Command Day Secondary School
+    description:
+    address: Ikeja Cantonment
+    city: Ikeja
+    state: Lagos
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: LA2
+    title: Ojo Cantonment
+    description:
+    address: 
+    city: Ojo
+    state: Lagos
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: NA1
+    title: Government Secondary School
+    description:
+    address: 
+    city: Lafia
+    state: Nassarawa
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: NI1
+    title: Command Children School
+    description:
+    address: 31 FAB
+    city: Minna
+    state: Niger
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: OG1
+    title: Army Children School
+    description:
+    address: Alamala Barracks
+    city: Abeokuta
+    state: Ogun
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: ON1
+    title: Army Children School
+    description:
+    address: Owena Barracks
+    city: Akure
+    state: Ondo
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: OS1
+    title: Oshogbo Grammar School
+    description:
+    address: 
+    city: Oshogbo
+    state: Osun
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: OY1
+    title: Command Day Secondary School
+    description:
+    address: 
+    city: Ibadan
+    state: Oyo
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: PL1
+    title: Command Children School
+    description:
+    address: Maxwell Khobe Cantonment
+    city: Jos
+    state: Plateau
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: RI1
+    title: Command Children School
+    description:
+    address: Isaac Boro Barracks, 2 Brigade
+    city: Port Harcourt
+    state: Rivers
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: SO1
+    title: Command Children School
+    description:
+    address: Giginya Barracks, 1 Brigade
+    city: Sokoto
+    state: Sokoto
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: TA1
+    title: Government Teachers College
+    description:
+    address: 
+    city: Jalingo
+    state: Taraba
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: YO1
+    title: Government Day Secondary School
+    description:
+    address: 
+    city: Damaturu
+    state: Yobe
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: ZA1
+    title: Gusau Secondary School
+    description:
+    address: 1 BAD
+    city: Gusau
+    state: Zamfara
+    latitude:
+    longitude:
+    classification: exam
+    zone: 
+    
+  - code: NC1
+    title: Nigerian Army School of Military Engineering
+    description: |
+      Benue, Nassarawa, Plateau, FCT (Abuja)
+    address:
+    city: Makurdi
+    state: Benue
+    latitude:
+    longitude:
+    classification: zone
+    zone: North Central Zone 1
+
+  - code: NC2
+    title: Headquarters 22 Brigade, Nigerian Army
+    description: |
+      Kwara, Niger, Kogi
+    address: Sobi Barracks
+    city: Ilorin
+    state: Kwara
+    latitude:
+    longitude:
+    classification: zone
+    zone: North Central Zone 2
+
+
+  - code: NE1
+    title: Headquarters 23 Brigade, Nigerian Army
+    description: |
+      Adamawa, Taraba, Borno
+    address: 
+    city: Yola
+    state: Adamawa
+    latitude:
+    longitude:
+    classification: zone
+    zone: North East Zone 1
+
+  - code: NE2
+    title: Headquarters 33 Brigade, Nigerian Army
+    description: |
+      Bauchi, Yobe, Gombe
+    address: 
+    city: Bauchi
+    state: Bauchi
+    latitude:
+    longitude:
+    classification: zone
+    zone: North East Zone 2
+
+  - code: NW1
+    title: Headquarters 1 Brigade, Nigerian Army
+    description: |
+      Kano, Kebbi, Sokoto, Zamfara
+    address: 
+    city: Sokoto
+    state: Sokoto
+    latitude:
+    longitude:
+    classification: zone
+    zone: North West Zone 1
+
+  - code: NW2
+    title: Headquarters 1 Division, Nigerian Army
+    description: |
+      Jigawa, Kaduna, Katsina
+    address: 
+    city: Kaduna
+    state: Kaduna
+    latitude:
+    longitude:
+    classification: zone
+    zone: North West Zone 2
+
+  - code: SE1
+    title: Headquarters 34 Brigade, Nigerian Army
+    description: |
+      Abia, Imo
+    address: Obinze Barracks
+    city: Owerri
+    state: Imo
+    latitude:
+    longitude:
+    classification: zone
+    zone: South East Zone 1
+
+  - code: SE2
+    title: Headquarters 82 Division Garrison, Nigerian Army
+    description: |
+      Anambra, Ebonyi, Enugu
+    address: 
+    city: Enugu
+    state: Enugu
+    latitude:
+    longitude:
+    classification: zone
+    zone: South East Zone 2
+
+  - code: SS1
+    title: Headquarters 13 Brigade, Nigerian Army
+    description: |
+      Akwa Ibom, Cross Rivers, Rivers
+    address: 
+    city: Calabar
+    state: Cross Rivers
+    latitude:
+    longitude:
+    classification: zone
+    zone: South South Zone 1
+
+  - code: SS2
+    title: Headquarters 4 Brigade, Nigerian Army
+    description: |
+      Bayelsa, Delta, Edo
+    address: 
+    city: Benin
+    state: Edo
+    latitude:
+    longitude:
+    classification: zone
+    zone: South South Zone 2
+
+  - code: SW1
+    title: Headquarters 35 Brigade, Nigerian Army
+    description: |
+      Lagos, Ogun, Ondo
+    address: Alamala Barracks
+    city: Abeokuta
+    state: Ogun
+    latitude:
+    longitude:
+    classification: zone
+    zone: South West Zone 1
+
+  - code: SW2
+    title: Headquarters 2 Division, Nigerian Army
+    description: |
+      Ekiti, Osun, Oyo
+    address: Adekunle Fajuyi Cantonment
+    city: Ibadan
+    state: Oyo
+    latitude:
+    longitude:
+    classification: zone
+    zone: South West Zone 2

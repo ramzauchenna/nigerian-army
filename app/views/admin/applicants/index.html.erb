@@ -1,0 +1,127 @@
+<%= provide(:assets) do %>
+    <%= javascript_include_tag 'datatables-plugin', 'data-turbolinks-track' => true %>
+<% end %>
+
+<div class="page-header">
+  <h1 class="page-title">Applicants</h1>
+  <ol class="breadcrumb">
+    <li><%= link_to "Dashboard", admin_root_url %></li>
+    <li class="active">Applicants</li>
+  </ol>
+  <div class="page-header-actions">
+    <a class="btn btn-sm btn-default btn-outline btn-round" href="http://datatables.net" target="_blank">
+      <i class="icon wb-link" aria-hidden="true"></i>
+      <span class="hidden-xs">Official Website</span>
+    </a>
+  </div>
+</div>
+
+<div class="page-content">
+
+
+  <div class="panel">
+    <div class="panel-heading">
+      <h3 class="panel-title">
+        Advanced Filters
+        <i class="pull-right wb-settings"></i>
+      </h3>
+    </div>
+    <div class="panel-body container-fluid">
+      <div class="row row-lg">
+        <%= form_tag "#", class: "advanced-filters" do %>
+        <div class="col-sm-6 col-lg-4">
+          <!-- Example Basic -->
+          <div class="example-wrap">
+            <h4 class="example-title">Lga Name</h4>
+            <div class="example">
+              <%= select_tag "lga", options_from_collection_for_select(@lgas, "name", "name"),
+                             {class: "form-control local-government", "data-plugin": "select2", prompt: "Please select" } %>
+            </div>
+          </div>
+          <!-- End Example Basic -->
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <!-- Example Multi Balue -->
+          <div class="example-wrap">
+            <h4 class="example-title">State Name</h4>
+            <div class="example">
+              <%= select_tag "state", options_from_collection_for_select(@regions, "name", "name"),
+                             {class: "form-control region", "data-plugin": "select2", prompt: "Please select" } %>
+            </div>
+          </div>
+          <!-- End Example Multi Balue -->
+        </div>
+        <div class="clearfix visible-sm-block visible-md-bock"></div>
+        <div class="col-sm-6 col-lg-4">
+          <!-- Example Placeholders -->
+          <div class="example-wrap">
+            <h4 class="example-title">Army Corp</h4>
+            <div class="example">
+              <%= select_tag "army_corp", options_from_collection_for_select(@army_corps, "name", "name"),
+                             {class: "form-control army-corp", "data-plugin": "select2", prompt: "Please select" } %>
+            </div>
+          </div>
+          <!-- End Example Placeholders -->
+        </div>
+        <div class="clearfix visible-sm-block visible-md-bock"></div>
+        <div class="col-sm-6 col-lg-4">
+          <!-- Example Placeholders -->
+          <div class="example-wrap">
+            <h4 class="example-title">Specialization</h4>
+            <div class="example">
+              <%= select_tag "specialization", options_from_collection_for_select(@specializations, "name", "name"),
+                             {class: "form-control specialization", "data-plugin": "select2", prompt: "Please select" } %>
+            </div>
+          </div>
+          <!-- End Example Placeholders -->
+        </div>
+        <div class="col-sm-6 col-lg-4">
+          <!-- Example Placeholders -->
+          <div class="example-wrap">
+            <h4 class="example-title">Qualifications</h4>
+            <div class="example">
+              <%= select_tag "qualifications", options_from_collection_for_select(@qualifications, "name", "name"),
+                             {class: "form-control qualifications", "data-plugin": "select2", prompt: "Please select" } %>
+            </div>
+          </div>
+          <!-- End Example Placeholders -->
+        </div>
+        <% end %>
+      </div>
+    </div>
+  </div>
+
+  <div class="panel">
+    <div class="panel-body">
+      <table class="table table-hover dataTable table-striped width-full dynamicTable colVis dataTable ajax" id="exampleTableTools" data-source="<%= admin_applicants_url(format: "json") %>">
+        <thead>
+        <tr>
+          <th></th>
+          <th>ApplicationNumber</th>
+          <th>FullName</th>
+          <th>Gender</th>
+          <th>MobileNumber</th>
+          <th>Trade</th>
+          <th>State</th>
+          <th>LGAName</th>
+        </tr>
+        </thead>
+        <tfoot>
+        <tr>
+          <th></th>
+          <th>ApplicationNumber</th>
+          <th>FullName</th>
+          <th>Gender</th>
+          <th>MobileNumber</th>
+          <th>Trade</th>
+          <th>State</th>
+          <th>LGAName</th>
+        </tr>
+        </tfoot>
+        <tbody>
+
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
